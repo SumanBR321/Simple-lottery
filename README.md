@@ -1,11 +1,11 @@
 # Simple-lottery
 
 
-# 1. Initialize the Hardhat project
+**# 1. Initialize the Hardhat project**
 npm init -y
 npx hardhat
 
-# 2. Install essential packages
+**# 2. Install essential packages**
 npm install --save-dev hardhat
 npm install @nomicfoundation/hardhat-toolbox
 
