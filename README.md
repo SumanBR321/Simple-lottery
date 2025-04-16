@@ -17,8 +17,8 @@ npx hardhat compile
 npx hardhat run scripts/deploy.js --network localhost
 ||
 npx hardhat node
-||
-**#4. IN a new terminal**
+
+****#4. IN a new terminal****
 hardhat run scripts/deploy.js --network localhost
 
 
